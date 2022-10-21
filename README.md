@@ -14,6 +14,8 @@ Simple registration system in PHP.
 
 Реализовал интерфес с формой регистрации и входа, для хранения данных используется БД MySQL.
 
+![Хореография](https://github.com/DericcoM/SimpleRegistrationSystemPHP/blob/main/%D0%A5%D0%BE%D1%80%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F.png)
+
 В проекте содержится 7 файлов: style.css, app.js, check.php, login.php, Diagrams.fig, exit.php, index.php, no_user.html.
 
 - style.css таблица стилей.
